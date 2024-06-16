@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit sharma</h1>
+<h1 align="center">Hi 👋, I'm sikan</h1>
 <h3 align="center">A seasoned data engineer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikan436&label=Profile%20views&color=0e75b6&style=flat" alt="sikan436" /> </p>
